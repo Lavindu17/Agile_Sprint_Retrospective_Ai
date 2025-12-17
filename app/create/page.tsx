@@ -96,7 +96,7 @@ export default function CreateSession() {
 
           <div>
             <label className="block text-xs font-bold text-slate-500 uppercase tracking-wide mb-1">
-              Problem Context
+              Explain Problem Context
             </label>
             <textarea
               className="w-full p-3 bg-white text-slate-900 border border-slate-200 rounded-lg h-24 focus:ring-2 focus:ring-blue-500 outline-none transition resize-none"
